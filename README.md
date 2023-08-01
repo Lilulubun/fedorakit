@@ -1,12 +1,32 @@
-# fedorakit
+# Fedorakit
 
-~~~~~~~~~ | bash for new fedora desktop | ~~~~~~~~~~~~~
-
+ | bash for new fedora desktop |
+* credit to me :-)
+ 
 # Downloading theme
 gettheme.sh
+~~~~~~~~~~~~~~
+git clone https://github.com/Lilulubun/
+cd
+sudo chmod +x gettheme.sh
+./gettheme.sh
+~~~~~~~~~~~~~~
 
-# Auto backup appearance
+# Auto backup tweak
 gnometweak.sh
+~~~~~~~~~~~~~~
+git clone https://github.com/Lilulubun/
+cd
+sudo chmod +x gnometweak.sh
+./gnometweak.sh
+~~~~~~~~~~~~~~
 
 # Often used App
 Installing brave-browser; golang; zsh; ohmyzsh.
+
+~~~~~~~~~~~~~~
+git clone https://github.com/Lilulubun/
+cd
+sudo chmod +x installapp.sh
+./installapp.sh
+~~~~~~~~~~~~~~

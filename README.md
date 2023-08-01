@@ -6,8 +6,8 @@
 # Downloading theme
 gettheme.sh
 ~~~~~~~~~~~~~~
-git clone https://github.com/Lilulubun/
-cd
+git clone https://github.com/Lilulubun/fedorakit.git
+cd fedorakit
 sudo chmod +x gettheme.sh
 ./gettheme.sh
 ~~~~~~~~~~~~~~
@@ -15,8 +15,8 @@ sudo chmod +x gettheme.sh
 # Auto backup tweak
 gnometweak.sh
 ~~~~~~~~~~~~~~
-git clone https://github.com/Lilulubun/
-cd
+git clone https://github.com/Lilulubun/fedorakit.git
+cd fedorakit
 sudo chmod +x gnometweak.sh
 ./gnometweak.sh
 ~~~~~~~~~~~~~~
@@ -25,8 +25,8 @@ sudo chmod +x gnometweak.sh
 Installing brave-browser; golang; zsh; ohmyzsh.
 
 ~~~~~~~~~~~~~~
-git clone https://github.com/Lilulubun/
-cd
+git clone https://github.com/Lilulubun/fedorakit.git
+cd fedorakit
 sudo chmod +x installapp.sh
 ./installapp.sh
 ~~~~~~~~~~~~~~
